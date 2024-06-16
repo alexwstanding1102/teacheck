@@ -1,8 +1,8 @@
     body {
-      background-color: rgb(20,132,255);
+      background-color: rgb(25, 28, 29);
     }
     * {
-        color: rgb(191, 224, 219);
+        color: rgb(20,132,255);
         font-family: monospace;
         line-height: .1;
         margin-left: 10;
