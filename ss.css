@@ -1,6 +1,35 @@
-body {
-  background-color: rgb(10,10,10);
+    body {
+      background-color: rgb(20,132,255);
+    }
+    * {
+        color: rgb(191, 224, 219);
+        font-family: monospace;
+        line-height: .1;
+        margin-left: 10;
+        transition-duration: .1s;
+    }
+    .mh {
+        font-size: 80;
+    }
+
+a:hover {
+  color: white;
 }
-* {
-  color: rgb(222,222,222)
-}
+
+    a {
+        text-decoration:none
+    }
+    .mp {
+        font-size: 25;font-weight: bold;
+    }
+    .sp {
+        font-size: 17;font-weight: bold;
+        line-height: 1;
+    }
+    li {
+        font-size: 17;font-weight: bold;
+        line-height: 1;
+    }
+    .marginated {
+        margin-top:80;
+    }
